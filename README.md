@@ -1,6 +1,6 @@
 # SimpleJavaGames
 
-Welcome to this simple Java Game repository. Within this repository, I utilise my skills in Java to create a quick, simple and easy text based game center, where the user is given the option to play numerous text based games. 
+Welcome to this simple Java Game repository. Within this repository, I utilise my skills in Java to create a quick, simple and easy text based/Command Line Interface game center, where the user is given the option to play numerous text based games. 
 
 # Files
 - **GameLauncher.java -** this is the home page, the user is asked to either quit the game or select a valid game mode (if an invalid input is entered, the game keeps asking for input until a valid input is received). Upon valid input, the respective command is executed (that is, a game is run or the program is ended)
